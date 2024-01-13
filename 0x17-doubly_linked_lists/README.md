@@ -1,1 +1,1 @@
-Solving the double linked 
+0x17. C - Doubly linked lists
